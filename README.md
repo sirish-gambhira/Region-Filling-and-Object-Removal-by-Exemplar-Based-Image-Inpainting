@@ -30,7 +30,19 @@ Functions:<br>
 
 ## Results
 
+<figure>
+  <img src="https://github.com/Sirish07/Region-Filling-and-Object-Removal-by-Exemplar-Based-Image-Inpainting/blob/main/river/original.jpg" width = "200" height = "200">
+  <figcaption>Original Image</figcaption>
+</figure>
 
+<figure>
+  <img src="https://github.com/Sirish07/Region-Filling-and-Object-Removal-by-Exemplar-Based-Image-Inpainting/blob/main/river/coloured_mask.jpg" width = "200" height = "200">
+  <figcaption>Colored Mask</figcaption>
+</figure>
 
+<figure>
+  <img src="https://github.com/Sirish07/Region-Filling-and-Object-Removal-by-Exemplar-Based-Image-Inpainting/blob/main/river/result.jpg" width = "200" height = "200">
+  <figcaption>Final Image</figcaption>
+</figure>
 
 
