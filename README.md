@@ -45,4 +45,6 @@ Functions:<br>
   <figcaption>Final Image</figcaption>
 </figure>
 
+## Discussion
+[Report](https://drive.google.com/file/d/1Usd_qdtElXvRNqfD-5_nk2CfDPdtiYD8/view?usp=sharing)
 
