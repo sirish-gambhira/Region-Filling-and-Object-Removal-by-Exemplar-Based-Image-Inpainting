@@ -14,6 +14,8 @@ Team Members:
 
 ## Code outline
 
+For the difference between Code1, Code2 refer 6th point of discussion <br>
+
 AssistedFreehand is used to get the mask, hold the left button to draw, and double click when completed <br>
 
 Functions:<br>
@@ -26,11 +28,9 @@ Functions:<br>
 7. update function updates the Image, binary image/mask, and confidence values
 8. Check function checks whether the task is completed or not
 
-Images:
-Only Images have been taken from standard resources like GitHub, Google, and some generated images for our understanding.
+## Results
 
-Code:
-For the difference between Code1, Code2 refer 6th point of discussion
+
 
 
 
